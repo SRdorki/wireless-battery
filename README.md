@@ -7,16 +7,16 @@
   <img src="https://img.shields.io/badge/VERS%C3%83O-1.0.0-6FE0B8?style=for-the-badge" alt="Versão 1.0.0">
   <img src="https://img.shields.io/badge/ATUALIZA%C3%87%C3%83O-autom%C3%A1tica-6875E8?style=for-the-badge" alt="Atualizações automáticas">
 
-  <p><strong>As baterias dos seus periféricos, direto na barra de tarefas.</strong></p>
+  <p><strong>Acompanhe as baterias dos seus periféricos compatíveis, direto na barra de tarefas.</strong></p>
 </div>
 
 ## ✨ O que ele faz
 
 - Mostra ícones e porcentagens em uma faixa compacta que acompanha a quantidade de dispositivos.
 - Permite personalizar cores, fundo, ícones, nomes e informações exibidas.
-- Lê o Attack Shark X11 pela dock/receptor e pelo cabo USB.
-- Detecta periféricos Bluetooth quando o Windows disponibiliza a bateria.
-- Exibe o raio enquanto o X11 carrega pelo cabo ou informa carregamento pelo receptor.
+- Monitora periféricos Bluetooth de várias marcas quando o Windows disponibiliza o nível da bateria.
+- Mostra uma faixa compacta na barra de tarefas, com ícones e porcentagens personalizáveis.
+- Lê alguns periféricos por cabo, receptor ou dock USB, conforme o suporte disponível para cada modelo.
 
 ## ⬇️ Instalação
 
@@ -43,7 +43,9 @@ Os downloads ficam na branch `main`, na raiz do repositório. Para atualizar, pu
 
 ## ℹ️ Compatibilidade
 
-O Windows só informa a bateria de periféricos que expõem esse dado. Alguns dispositivos Bluetooth não fornecem porcentagem. Docks de outras marcas podem exigir suporte específico.
+O suporte Bluetooth funciona com várias marcas, desde que o periférico exponha a bateria ao Windows ou use o serviço Bluetooth padrão de bateria. Alguns dispositivos não disponibilizam essa informação.
+
+Receptores, docks e cabos USB podem usar protocolos diferentes. Esta versão inclui suporte verificado para o Attack Shark X11 pelo cabo e pela dock/receptor; outros modelos USB podem exigir suporte específico.
 
 ## 🔒 Privacidade
 
