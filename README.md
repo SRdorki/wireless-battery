@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/wireless-battery-banner.svg" alt="Wireless Battery — baterias dos periféricos na barra do Windows" width="100%">
+  <img src="assets/wireless-battery-banner.png" alt="Wireless Battery — baterias de periféricos Bluetooth de várias marcas" width="100%">
 
   <br>
 
