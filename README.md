@@ -1,9 +1,14 @@
+# Wireless Battery by SRdorki
+
+Monitoramento de bateria de periféricos sem fio diretamente na barra de tarefas do Windows.
+
 <div align="center">
   <img src="assets/wireless-battery-banner.png" alt="Wireless Battery — baterias de periféricos Bluetooth de várias marcas" width="100%">
 
   <br>
 
-  <a href="https://github.com/SRdorki/wireless-battery/raw/refs/heads/main/WirelessBatterySetup.exe"><img src="https://img.shields.io/badge/BAIXAR-Windows%2010%20%2F%2011-0878D1?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar para Windows 10 e 11"></a>
+  <a href="https://github.com/SRdorki/wireless-battery/releases/latest/download/WirelessBatterySetup.exe"><img src="https://img.shields.io/badge/BAIXAR-Windows%2010%20%2F%2011-0878D1?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar para Windows 10 e 11"></a>
+  <a href="https://srdorki.github.io/wireless-battery/"><img src="https://img.shields.io/badge/SITE-ONLINE-21A88B?style=for-the-badge" alt="Site do Wireless Battery"></a>
   <img src="https://img.shields.io/badge/VERS%C3%83O-1.1.0-6FE0B8?style=for-the-badge" alt="Versão 1.1.0">
   <img src="https://img.shields.io/badge/ATUALIZA%C3%87%C3%83O-autom%C3%A1tica-6875E8?style=for-the-badge" alt="Atualizações automáticas">
 
@@ -20,7 +25,7 @@
 
 ## ⬇️ Instalação
 
-1. [Baixe o instalador](https://github.com/SRdorki/wireless-battery/raw/refs/heads/main/WirelessBatterySetup.exe).
+1. [Baixe o instalador oficial](https://github.com/SRdorki/wireless-battery/releases/latest/download/WirelessBatterySetup.exe).
 2. Execute `WirelessBatterySetup.exe` e clique em **Instalar**.
 3. Deixe marcada a opção **Iniciar automaticamente com o Windows** para manter a faixa após entrar no sistema.
 
@@ -50,3 +55,7 @@ Receptores, docks e cabos USB podem usar protocolos diferentes. Esta versão inc
 ## 🔒 Privacidade
 
 As leituras dos periféricos são feitas localmente. A conexão à internet é usada para consultar o feed público e baixar atualizações; o app não envia dados de uso.
+
+## 🌐 Site
+
+Visite o [site oficial do Wireless Battery](https://srdorki.github.io/wireless-battery/) para ver os recursos, compatibilidade e downloads.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srdorki.github.io/wireless-battery/sitemap.xml
