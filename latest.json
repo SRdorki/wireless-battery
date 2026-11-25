@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "packageUrl": "https://raw.githubusercontent.com/SRdorki/wireless-battery/main/Baterias-dos-perifericos.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/SRdorki/wireless-battery/main/Baterias-dos-perifericos.zip.sha256"
+  "version": "1.1.2",
+  "packageUrl": "https://github.com/SRdorki/wireless-battery/releases/download/v1.1.2/Baterias-dos-perifericos.zip",
+  "checksumUrl": "https://github.com/SRdorki/wireless-battery/releases/download/v1.1.2/Baterias-dos-perifericos.zip.sha256"
 }
