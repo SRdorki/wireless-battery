@@ -4,7 +4,7 @@
   <br>
 
   <a href="https://github.com/SRdorki/wireless-battery/raw/refs/heads/main/WirelessBatterySetup.exe"><img src="https://img.shields.io/badge/BAIXAR-Windows%2010%20%2F%2011-0878D1?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar para Windows 10 e 11"></a>
-  <img src="https://img.shields.io/badge/VERS%C3%83O-1.0.1-6FE0B8?style=for-the-badge" alt="Versão 1.0.1">
+  <img src="https://img.shields.io/badge/VERS%C3%83O-1.1.0-6FE0B8?style=for-the-badge" alt="Versão 1.1.0">
   <img src="https://img.shields.io/badge/ATUALIZA%C3%87%C3%83O-autom%C3%A1tica-6875E8?style=for-the-badge" alt="Atualizações automáticas">
 
   <p><strong>Acompanhe as baterias dos seus periféricos compatíveis, direto na barra de tarefas.</strong></p>
@@ -15,6 +15,7 @@
 - Acompanha e exibe a bateria dos periféricos em uma faixa compacta na barra de tarefas.
 - Monitora dispositivos Bluetooth de várias marcas quando o Windows informa o nível da bateria.
 - Permite personalizar cores, fundo, ícones, nomes e quais dispositivos aparecem.
+- Exibe cards renovados com nível visual, estado de carga e animações de brilho discretas.
 - Também lê alguns periféricos por cabo, receptor ou dock USB, conforme o suporte de cada modelo.
 
 ## ⬇️ Instalação
